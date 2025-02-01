@@ -43,7 +43,7 @@
     "@tensorflow/tfjs-node": "1.7.0",
     "@types/jasmine": "^3.5.9",
     "@types/node": "^13.9.2",
-    "canvas": "2.6.1",
+    "@napi-rs/canvas": "^0.1.44",
     "jasmine": "^3.5.0",
     "jasmine-core": "^3.5.0",
     "karma": "^4.4.1",
